@@ -1,0 +1,3 @@
+This is the first version of basic react native project todo list.
+add your daily task in list and after task completion remove task from 
+the task by clicking on task name in the list.
